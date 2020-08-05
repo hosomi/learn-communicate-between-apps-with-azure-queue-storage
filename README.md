@@ -50,7 +50,7 @@ az storage message peek --queue-name <storage-resource-name> --connection-string
 
 * 利用する nuget パッケージが非推奨になっていますので置き換えてください。  
 
-:x: ``dotnet add package Microsoft.Azure.Storage.Queue``:  
+:x: ``dotnet add package WindowsAzure.Storage``:  
 ![WindowsAzure.Storage](learn-queue-app-01.png)  
 
 
